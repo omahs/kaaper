@@ -94,7 +94,7 @@ yarn test
 ```
 
 ## 📦 VSCode Extension Installation
-The extension is not on the marketplace yet, so the only way to use it is by building it from source. Dont forget to open up the vscode on this directory.
+The extension is not on the marketplace yet, so the only way to use it is by building it from source. Don't forget to open up the vscode on this directory.
 
 Open vscode-extension directory
 ```
